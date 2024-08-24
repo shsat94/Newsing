@@ -1,4 +1,5 @@
-## This is the project in which we can read daily news headlines with their articles and go through the different categories news headlines
+## Newsing is the project in which we can read daily news headlines with their articles and go through the different categories news headlines
+<h2>This uses class based react component to form this project</h2>
 Categories involved<br/>
 --> General<br/>
 --> Sports<br/>
