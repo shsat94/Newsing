@@ -9,7 +9,7 @@ Categories involved<br/>
 --> Science<br/>
 
 ## Process to Run this react application
-<p>'''
+<pre>
  1. TO start this pull this in your local and then create a .env file in the newsing folder
  2. Go to News.org and signup or signin and get your api(testing/prodution) key from there.
  3. Then copy that api key 
@@ -17,8 +17,8 @@ Categories involved<br/>
  5. Now write REACT_APP_NEWS_API= your API key (testing/production)
  6. Open terminal and for testing run --> npm run start for the testing launch 
  7. for deployment run --> npm run build this command will build a optimized version of the Newsing app.
- NOW you got your application'''
-</p>
+ NOW you got your application
+</pre>
 
 
 <h3>Created by Velociraptor</h3>
