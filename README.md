@@ -16,8 +16,9 @@ Categories involved<br/>
  3. Then copy that api key 
  4. In .env file create a variable name REACT_APP_NEWS_API
  5. Now write REACT_APP_NEWS_API= your API key (testing/production)
- 6. Open terminal and for testing run --> npm run start for the testing launch 
- 7. for deployment run --> npm run build this command will build a optimized version of the Newsing app.
+ 6. Open terminal and run --> "npm install" to bring all the dependencies that are needed to run this application.
+ 7. In terminal, for testing run --> "npm run start" for the testing launch 
+ 8. for deployment run --> "npm run build" this command will build a optimized version of the Newsing app.
  NOW you got your application
 </pre>
 
