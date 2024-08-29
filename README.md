@@ -11,7 +11,7 @@ Categories involved<br/>
 
 ## Process to Run this react application
 <pre>
- 1. TO start this pull this in your local and then create a .env file in the newsing folder
+ 1. TO start this clone this in your local and then create a .env file in the newsing folder
  2. Go to News.org and signup or signin and get your api(testing/prodution) key from there.
  3. Then copy that api key 
  4. In .env file create a variable name REACT_APP_NEWS_API
